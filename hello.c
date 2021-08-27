@@ -12,6 +12,7 @@
 
      printf("Gage Sherman!\n");
      printf("Computer Science\n");
-
+     printf("Moussa Ndiaye\n");
+     printf("Computer Engineering\n");
      return 0;
  }
